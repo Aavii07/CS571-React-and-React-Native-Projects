@@ -14,6 +14,7 @@ BadgerChat Voice:
 https://github.com/user-attachments/assets/2b01f7bc-97f4-4b5a-b073-8f8f06795198
 
 BadgerChat Web:
+https://github.com/user-attachments/assets/04957ac0-543e-4ec5-99d8-fe4f50fc765e
 
 BadgerBuddies Cat Shopping:
 https://github.com/user-attachments/assets/bea12dac-9d9d-4073-9e1d-795367d6b629
