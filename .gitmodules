@@ -1,15 +1,20 @@
 [submodule "Badger-Buddies-Cat-Shopping"]
 	path = Badger-Buddies-Cat-Shopping
 	url = git@github.com:Aavii07/Badger-Buddies-Cat-Shopping.git
+	branch = main
 [submodule "BadgerChat-Web"]
 	path = BadgerChat-Web
 	url = git@github.com:Aavii07/BadgerChat-Web.git
+	branch = main
 [submodule "BadgerNews-Mobile"]
 	path = BadgerNews-Mobile
 	url = git@github.com:Aavii07/BadgerNews-Mobile.git
+	branch = main
 [submodule "BadgerChat-Mobile"]
 	path = BadgerChat-Mobile
 	url = git@github.com:Aavii07/BadgerChat-Mobile.git
+	branch = main
 [submodule "BadgerChat-Voice"]
 	path = BadgerChat-Voice
 	url = git@github.com:Aavii07/BadgerChat-Voice.git
+	branch = main
