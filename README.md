@@ -1,6 +1,7 @@
 This repository showcases the projects I had the most fun with and put the most effort into during my university class on React and React Native development with Node.js.
 
-Three of these projects are variations on a global messaging board, utilizing the same API but implemented differently to cater to web, mobile, and voice interfaces. The other two projects include a current events news app and a website built for shopping and adopting cats.
+Three of these projects are variations on a global messaging board, implemented differently to cater to web, mobile, and voice interfaces.
+The other two projects include a university news mobile app and a website built for shopping and adopting cats.
 
 Below are demonstration videos pertaining to each project:
 
@@ -19,4 +20,4 @@ https://github.com/user-attachments/assets/04957ac0-543e-4ec5-99d8-fe4f50fc765e
 BadgerBuddies Cat Shopping:
 https://github.com/user-attachments/assets/bea12dac-9d9d-4073-9e1d-795367d6b629
 
-For more details of any of these projects, please check out the submodules linked above.
+To view the projects in more detail, please check out the submodules linked above.
