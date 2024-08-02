@@ -20,4 +20,12 @@ https://github.com/user-attachments/assets/04957ac0-543e-4ec5-99d8-fe4f50fc765e
 BadgerBuddies Cat Shopping:
 https://github.com/user-attachments/assets/bea12dac-9d9d-4073-9e1d-795367d6b629
 
+BadgerBook Student Lookup:
+https://github.com/user-attachments/assets/fe703bc5-e35e-4bab-a631-174f961d90a2
+
 To view the projects in more detail, please check out the submodules linked above.
+
+<br>
+<br>
+To try every project locally, run "git clone --recurse-submodules git@github.com:Aavii07/CS571-Projects.git," or just clone any child repo <br>
+To start any project run "npm i" follwed by "npm run dev" in that project's directory
