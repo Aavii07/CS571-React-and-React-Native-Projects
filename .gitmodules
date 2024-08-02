@@ -18,3 +18,6 @@
 	path = BadgerChat-Voice
 	url = git@github.com:Aavii07/BadgerChat-Voice.git
 	branch = main
+[submodule "BadgerBook-Student-Lookup"]
+	path = BadgerBook-Student-Lookup
+	url = git@github.com:Aavii07/BadgerBook-Student-Lookup.git
